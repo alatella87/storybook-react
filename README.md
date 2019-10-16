@@ -1,3 +1,5 @@
+This is a personal tutorial of CDD (Component-Driven-Development) done to learn Storybook suite and the React framework.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
